@@ -1,0 +1,4 @@
+# ninja log v5
+0	37	1691920731977238819	CMakeFiles/socketclient.dir/socketutil.c.o	6c3c432e42c3713d
+0	47	1691920731989238914	CMakeFiles/socketclient.dir/main.c.o	c0d5faac410da2c
+48	74	1691920732013239105	socketclient	77a02abe4aeb4207

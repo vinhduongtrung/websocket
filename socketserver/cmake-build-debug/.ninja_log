@@ -1,0 +1,6 @@
+# ninja log v5
+0	48	1691919309409913065	CMakeFiles/socketserver.dir/main.c.o	a37793582bef4024
+48	73	1691919309433913255	socketserver	ff0b004e021b3990
+0	37	1691915534611843648	CMakeFiles/socketserver.dir/socketutil.c.o	20fb65561b5e2bf8
+1	55	1691919730917268889	CMakeFiles/socketserver.dir/main.c.o	a37793582bef4024
+55	82	1691919730945269113	socketserver	ff0b004e021b3990
